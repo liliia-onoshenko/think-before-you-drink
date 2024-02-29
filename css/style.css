@@ -1,0 +1,74 @@
+body{
+	background: #aec3b0;
+}
+
+.nav-wrapper,.page-footer{
+	background: #01161e;
+}
+
+h1{
+font-family: "Stalinist One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h4{
+
+  
+  font-family: "Prosto One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+p{
+
+  font-family: "Play", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+ol{
+
+font-family: "Play", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+	
+}
+
+i{
+
+  
+  font-family: "Prosto One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p{
+	font-family: "Prosto One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+ol{
+	font-family: "Prosto One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+ul{
+	font-family: "Prosto One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.leftimg {
+float:left; /* Вирівнювання по лівому краю */
+margin: 7px 7px 7px 0; /* Відступи навколо картинки */
+}
+.rightimg {
+float: right; /* Вирівнювання по правому краю */
+margin: 0 7px 7px 7px; /* Відступи навколо картинки */
+}
